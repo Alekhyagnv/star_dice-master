@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item>
+        <shape>
+            <corners android:radius="20dp"/>
+            <solid android:color="#0a22f9" />
+        </shape>
+    </item>
+
+    <item
+
+        android:drawable="@drawable/p1img3"
+        android:width="40dp"
+        android:height="40dp"
+        android:gravity="center"
+        />
+
+</layer-list>
